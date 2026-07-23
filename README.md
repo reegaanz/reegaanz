@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ...
     -Java
-    -Node.js
+    -Python
     -JavaScript
 - 👯 I’m looking forward to collaborate on open source projects.
 - 💡 I like to explore new technologies and learn new things.
