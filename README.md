@@ -36,20 +36,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### <h2>⚙️ Github stats:</h2> 
-
-<p align="center">
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedinaPedroDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MedinaPedroDev&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
