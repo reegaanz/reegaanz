@@ -1,12 +1,10 @@
 
-<h1 align="center">👋 Hi, I'm  REGAN W </h1>
+<h1 align="center">👋 Hi, I'm  REGAN </h1>
 <h2 align="center">🚀 Software Development Engineer (SDE)</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-I'm a Computer Science Engineering Student, Studying in Agni college of technology🎓.
 
 - 🌱 I’m currently learning ...
     -Java
