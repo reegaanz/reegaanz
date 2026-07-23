@@ -1,9 +1,6 @@
-<p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
-</p>
 
-
-<h1 align="center">I'm Regan W <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">👋 Hi, I'm  REGAN W </h1>
+<h2 align="center">🚀 Software Development Engineer (SDE)</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
 
